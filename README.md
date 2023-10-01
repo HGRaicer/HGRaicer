@@ -30,3 +30,6 @@
     <img src="https://skillicons.dev/icons?i=cpp,c,bash,py&theme=dark" />
     <img src="https://skillicons.dev/icons?i=github,linux&theme=dark" />
   </a>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgraicer&layout=donut)](https://github.com/hgraicer/github-readme-stats)
+  
