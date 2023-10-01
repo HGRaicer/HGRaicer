@@ -31,5 +31,5 @@
     <img src="https://skillicons.dev/icons?i=github,linux&theme=dark" />
   </a>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgraicer&layout=donut)](https://github.com/hgraicer/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgraicer)](https://github.com/hgraicer/github-readme-stats)
   
