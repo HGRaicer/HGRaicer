@@ -1,5 +1,5 @@
 
-![Header](./github-header-image-name.png)
+![Header](./github-header-image.png)
 
 
 <p align='center'>
@@ -15,7 +15,7 @@
  
  
 <br />
-<img align="right" height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/TENGwS5hytGEt66IlO/giphy.gif" />
+<img align="right" height="250px" width="330px" alt="GIF" src="https://media.giphy.com/media/TENGwS5hytGEt66IlO/giphy.gif" />
 <p align="center">
   <h3> I'm 18 years old student and developer</h3>
 </p>
