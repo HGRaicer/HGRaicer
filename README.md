@@ -21,7 +21,8 @@
 </p>
 
 - 🕸 Now I am at 1st course of MAI
-- 🙇‍♂️ Now I am deepening my knowledge in Python and C++. I'm also starting to study C.
+- 🙇‍♂️ Now I am deepening my knowledge in Python and C++.
+- 📚 I'm also starting to study C.
 
  
 <h2 align="center"> 👨🏻‍💻 Languages and Tools </h2>
