@@ -32,6 +32,19 @@
   </a>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=hgraicer&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgraicer&hide=c%23,powershell,Mathematica,Ruby,html,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "right" src="https://github-profile-trophy.vercel.app/?username=hgraicer&theme=onedark&rank=-C,-UNKNOWN,-SECRET&row=1&column=3" alt="hgraicer" /></a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgraicer)](https://github.com/hgraicer/github-readme-stats)
   
